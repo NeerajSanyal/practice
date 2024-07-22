@@ -1,0 +1,37 @@
+.container{
+    background-color: rgb(2, 78, 68);
+        left: 200px;
+    height: 500px;
+    padding-top: 130px;
+   
+}
+.row{
+    padding: 10px;
+    justify-content: center;
+}
+.col-2{
+    color: white;
+    padding: 30px;
+}
+.navbar-item{
+    padding: 100px;
+    margin: 100px;
+}
+
+.q{
+    position: absolute;
+    padding-top: 200px;
+    font-size:medium;
+}
+.w{
+    position: absolute;
+    padding-top: 200px;
+    font-size:medium;
+}
+.e{
+    position: absolute;
+    padding-top: 200px;
+    font-size:medium;
+}
+
+
